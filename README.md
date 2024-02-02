@@ -56,4 +56,4 @@ Jupiter Assistant is a simple Python-based voice assistant that can perform vari
 - "exit" or "bye" - Exit Jupiter Assistant
 # Note
 This is a simple AI assistant and is not meant for production use. It is for educational purposes only.
-
+![Untitled](https://github.com/spyweiar/jupiter-ai/assets/131190203/58057822-3301-4ce5-887b-af05b613530f)
