@@ -31,7 +31,7 @@ Jupiter Assistant is a simple Python-based voice assistant that can perform vari
 1. Install the required libraries using pip:
    `pip install pyttsx3 SpeechRecognition webbrowser os subprocess pyautogui random time logging requests json`
 2. Save the code as jupiter_assistant.py and run it using Python:
-   `python jupiter_assistant.py`
+   `python jupiter.py`
 3. Follow the prompts to log in and start using Jupiter Assistant.
 4. To exit, say "exit" or "bye"
 # Commands
